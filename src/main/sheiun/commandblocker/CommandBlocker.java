@@ -7,7 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  *
- * @author ShiueFeng
+ * @author SheiUn
  */
 public class CommandBlocker extends JavaPlugin {
 
